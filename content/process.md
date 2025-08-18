@@ -28,6 +28,12 @@ title: Process
 
 (stub) Install Linux on the computer.
 
+Most likely, we would want to install any extra codecs/drivers if asked.
+
+Drive partitioning: Use default format/partitions. No fancy things.
+
+Credentials: Should gather this information during [[Process#1. Discovery|discovery]].
+
 ## 4. Post-Install
 
 (stub) Install extra software.
